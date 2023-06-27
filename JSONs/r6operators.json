@@ -1,0 +1,118 @@
+{
+  "Attack": [
+    {
+      "name": "Sledge",
+      "unit": "SAS"
+    },
+    {
+      "name": "Thatcher",
+      "unit": "SAS"
+    },
+    {
+      "name": "Ash",
+      "unit": "FBI SWAT"
+    },
+    {
+      "name": "Thermite",
+      "unit": "FBI SWAT"
+    },
+    {
+      "name": "Twitch",
+      "unit": "GIGN"
+    },
+    {
+      "name": "Montagne",
+      "unit": "GIGN"
+    },
+    {
+      "name": "Glaz",
+      "unit": "Spetsnaz"
+    },
+    {
+      "name": "Fuze",
+      "unit": "Spetsnaz"
+    },
+    {
+      "name": "Blitz",
+      "unit": "GSG 9"
+    },
+    {
+      "name": "IQ",
+      "unit": "GSG 9"
+    },
+    {
+      "name": "Buck",
+      "unit": "JTF2"
+    },
+    {
+      "name": "Blackbeard",
+      "unit": "SEALs"
+    },
+    {
+      "name": "Capitão",
+      "unit": "BOPE"
+    },
+    {
+      "name": "Hibana",
+      "unit": "SAT"
+    }
+  ],
+  "Defend": [
+    {
+      "name": "Smoke",
+      "unit": "SAS"
+    },
+    {
+      "name": "Mute",
+      "unit": "SAS"
+    },
+    {
+      "name": "Castle",
+      "unit": "FBI SWAT"
+    },
+    {
+      "name": "Pulse",
+      "unit": "FBI SWAT"
+    },
+    {
+      "name": "Doc",
+      "unit": "GIGN"
+    },
+    {
+      "name": "Rook",
+      "unit": "GIGN"
+    },
+    {
+      "name": "Kapkan",
+      "unit": "Spetsnaz"
+    },
+    {
+      "name": "Tachanka",
+      "unit": "Spetsnaz"
+    },
+    {
+      "name": "Jäger",
+      "unit": "GSG 9"
+    },
+    {
+      "name": "Bandit",
+      "unit": "GSG 9"
+    },
+    {
+      "name": "Frost",
+      "unit": "JTF2"
+    },
+    {
+      "name": "Valkyrie",
+      "unit": "SEALs"
+    },
+    {
+      "name": "Caveira",
+      "unit": "BOPE"
+    },
+    {
+      "name": "Echo",
+      "unit": "SAT"
+    }
+  ]
+}

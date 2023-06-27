@@ -1,0 +1,648 @@
+{
+  "d": [
+    {
+      "title": "AFK Fake",
+      "description": "All defenders don't move during prep phase, but as soon as the match starts kill drones and wait for enemy team to barge in"
+    },
+    {
+      "title": "Auto-shotgun OP Defence",
+      "description": "All take Spetsnaz recruits with an automatic shotgun and open all the windows, trap doors and doors you can find during the preparation phase."
+    },
+    {
+      "title": "Bareboned",
+      "description": "No gadgets allowed whatsoever"
+    },
+    {
+      "title": "Bring the fight to them",
+      "description": "All defensive operators must leave the building once the match begins, and can only return if the objective is in immediate danger"
+    },
+    {
+      "title": "But wait, there's more!",
+      "description": "put nitro cells at every way in to the objective. Hide entire team. When notification appears enemy is securing, detonate nitro cells."
+    },
+    {
+      "title": "C4 Yourself",
+      "description": "Have your entire team open an area up through a massive usage of C4"
+    },
+    {
+      "title": "Come on Barb-ie, let’s go party",
+      "description": "All pick GSG9 recruits with the carbine, barb wire and nitro cells. As Germans, you get 3 barb wires each. Cover the entire floor with it."
+    },
+    {
+      "title": "Corner patrol zone",
+      "description": "After the preparation phase, each defender must stay in a different corner of the objective. If there are only 4 corners, the 5th player can sit wherever he pleases (under the table, on a chair, wherever)"
+    },
+    {
+      "title": "Deafened",
+      "description": "When last man standing, the death teammates must make as much sound as they can."
+    },
+    {
+      "title": "Doctor's Orders",
+      "description": "Whoever picks Doc commands the rest of the squad (The rest picks a recruit)"
+    },
+    {
+      "title": "Drone hunt",
+      "description": "No one can reinforce until all drones are destroyed."
+    },
+    {
+      "title": "Extreme Roaming",
+      "description": "As defender, you must be outside at all times."
+    },
+    {
+      "title": "Fake Out",
+      "description": "Put all your defenses in a different objective room not the real room and have four people defend the empty room trying to trick the enemy team"
+    },
+    {
+      "title": "Firing Squad",
+      "description": "The defenders line up along one wall of the objective and must stay against the wall for the duration of the round."
+    },
+    {
+      "title": "Fortified",
+      "description": "With Castle, Mute and Bandit, castle and mute the windows/doors, reinforce all walls and bandit/mute them as well. I also recommend deployable shields on the doors if you run out of castle doors. You cannot leave the objective room."
+    },
+    {
+      "title": "Forward Defence",
+      "description": "Defenders must all watch the same door/wall of the objective room. Preferably, the most obvious route into the objective."
+    },
+    {
+      "title": "Go on a rampage",
+      "description": "You must all go outside while defending after prep phase. You cannot go back inside until 2 are left or 20 seconds has past."
+    },
+    {
+      "title": "Hide and Seek",
+      "description": "No one can enter the objective room until all spawn drones are destroyed"
+    },
+    {
+      "title": "Hipfire with p90",
+      "description": "Get Rook/Doc or GIGN Recruit and pick the P90, hipfire & gadgets only!"
+    },
+    {
+      "title": "Hippocratic Oath",
+      "description": "Playing as Doc, you must revive anyone who is injured; enemies and allies. And naturally, as a doctor, you would never deliberately kill."
+    },
+    {
+      "title": "Hippocratic Oath",
+      "description": "Only doc can revive ALL players NO killing of downed enemies"
+    },
+    {
+      "title": "Hostage taker",
+      "description": "Anyone who died in the previous round becomes a \"hostage\". They crouch on the floor next to the hostage (or objective) and cannot shoot, use gadgets, operate cameras or help in any way."
+    },
+    {
+      "title": "Human Shield",
+      "description": "Whole team goes prone next to hostage and uses It as a human shield"
+    },
+    {
+      "title": "I'm here, come get me!",
+      "description": "All take GIGN recruits with the P90 and the pistol. Place barb wire all over the objective room. As soon as the attackers spawn, you must at least fire one shot every 3 seconds (count to 3, fire, count to 3, fire)."
+    },
+    {
+      "title": "Iron Curtain",
+      "description": "Everyone has to take the GSG9 recruit and put barbwire in places the player wants them to be. You are only allowed to kill enemies that are stuck in the Barbwire."
+    },
+    {
+      "title": "It's a trap!",
+      "description": "All take FBI recruits with the autoshotgun. Put C4 in each corner of the objective room, hide on the floor (but not in the objective room), as soon as they start securing it, detonate the C4 and rush them."
+    },
+    {
+      "title": "It's a trap!",
+      "description": "You need Kapkan, Frost and Smoke. Place all frost traps and kapkan traps in the objective room and use your gas charges to suppress the enemy in the last minute of the game."
+    },
+    {
+      "title": "Jihadist's Last Stand",
+      "description": "x5 GSG 9 Recruits, x15 Barbed Wire, x5 Nitro Cell, Fill room to the brim with c4 and barbed wire and wait"
+    },
+    {
+      "title": "Kill Confirmed",
+      "description": "Every kill must be marked by the ENTIRE TEAM in all-chat"
+    },
+    {
+      "title": "Like fish in a barrel",
+      "description": "Defenders all get 3 barbed wire and bandit and fill hostage room with barbed wire and stay outside of the room and shoot in through killholes at attackers"
+    },
+    {
+      "title": "Man Down",
+      "description": "Every team death must be marked the ENTIRE TEAM in all-chat"
+    },
+    {
+      "title": "Men Of Iron",
+      "description": "Only fully armored characters are allowed"
+    },
+    {
+      "title": "No Retreat",
+      "description": "No backing up during the round"
+    },
+    {
+      "title": "Offence is the best defence",
+      "description": "No one is allowed to be in the objective/hostage room, even if the attackers are in."
+    },
+    {
+      "title": "Protection Racket",
+      "description": "Playing as Rook, place your armour plates in an open area as a gift to the Attackers. No defenders can take the plates."
+    },
+    {
+      "title": "Roman Formation 1",
+      "description": "Defenders have to take deployable shields, arrange them in a circle and all 5 have to stay in the objective room hidden behind the shields."
+    },
+    {
+      "title": "Roman Formation 2",
+      "description": "Defenders have to take deployable shields, run outside after the prep phase, arrange them in a circle and all 5 have to stay hidden behind the shields."
+    },
+    {
+      "title": "Rooted",
+      "description": "You cannot move from the position you spawn in. (You may stand, lean, crouch, prone and you can vault an object if you can reach it. Basically, disable WASD)"
+    },
+    {
+      "title": "Spetsnaz Special",
+      "description": "Everyone must go SASG-12 Recruit."
+    },
+    {
+      "title": "Stay out of my kitchen!",
+      "description": "Playing as a female defender, run to the kitchen. Defend the kitchen. Do not leave the kitchen."
+    },
+    {
+      "title": "The .45 is king",
+      "description": "All pick FBI recruits with an UMP45, an M45, nitros and go to war."
+    },
+    {
+      "title": "The fifth pillar",
+      "description": "The lowest fragger must guide the enemy the whole round(via chat)"
+    },
+    {
+      "title": "The Overseer",
+      "description": "One defender must suicide and be the commander of the team, watching the cameras, command and guide the surviving players as you wish. The team must obey."
+    },
+    {
+      "title": "They’re in the walls!",
+      "description": "Do not place any reinforced walls, but barricade as many windows and doors as possible."
+    },
+    {
+      "title": "Til death do us part",
+      "description": "You may not leave the room you spawn in."
+    },
+    {
+      "title": "To Be Worthy",
+      "description": "Must get a kill before picking up armor"
+    },
+    {
+      "title": "Toxic Room",
+      "description": "Operators may not remain in the objective room unless taken"
+    },
+    {
+      "title": "Turret Terror",
+      "description": "Only the turret and knives may be used"
+    },
+    {
+      "title": "We love C4",
+      "description": "Only use C4 to kill enemies."
+    },
+    {
+      "title": "Welcome Home",
+      "description": "Pull down all barricades from windows and doors. No Castle. Bonus point for not using reinforced walls."
+    },
+    {
+      "title": "Whammy kablammy",
+      "description": "On plane, everyone hide in the technical seating room (the room between laundry and front entrance on the bottom floor) and when they blow up the wall run out and kill everyone!"
+    }
+  ],
+  "a": [
+    {
+      "title": "Admiral Ackbar!!",
+      "description": "Kill an enemy by suiciding with a grenade in your hand."
+    },
+    {
+      "title": "All Or Nothing",
+      "description": "When you fire a gun you cannot release the fire button until the mag is empty."
+    },
+    {
+      "title": "Auto-shotgun OP",
+      "description": "All take an FBI (or Spetsnaz) recruit with the automatic shotgun and rush like hell. Even if you haven’t found the objective."
+    },
+    {
+      "title": "Bastille",
+      "description": "Sharpshooter w/DMR w/ 4 shields"
+    },
+    {
+      "title": "Blinded by the Light",
+      "description": "Only Stun Grenades and pistols. (Shields are allowed if you wish)"
+    },
+    {
+      "title": "Breach Charge kill",
+      "description": "Someone has to get a kill with a breach charge. (Pro tip; down an enemy to get an easy kill)"
+    },
+    {
+      "title": "Canadian Warfare",
+      "description": "Every kill must be marked with an \"I'm sorry\" in all-chat"
+    },
+    {
+      "title": "Can't see it coming",
+      "description": "Players can only kill an enemy if they are flashed or smoked"
+    },
+    {
+      "title": "Captain Phillips",
+      "description": "I am the defender now. When attacking on hostage secure the hostage then get on the roof. Get back to the room drop the hostage where you found him."
+    },
+    {
+      "title": "Contract Killer",
+      "description": "Everyone is assigned one person to kill. Kill your target, then leave the building. No stealing other people’s contracts!"
+    },
+    {
+      "title": "Death from above",
+      "description": "All place breach charges on the ceiling of the objective room if it's breachable and detonate the five charges at once. Then, shoot from the room above."
+    },
+    {
+      "title": "Defence is the best offence",
+      "description": "Full shield. Only melee kills."
+    },
+    {
+      "title": "Designated Marksman",
+      "description": "Only whoever has the defuser can shoot!"
+    },
+    {
+      "title": "Eagle Eye",
+      "description": "Recruits using revolvers and shields"
+    },
+    {
+      "title": "First Droned first surved",
+      "description": "Every attacker has to drone the objective and stay within the objective room until prep phase is over. The first 2 drones that get destroyed or disrupted will get downed at the beginning of the round and revived. They have to play with 25 hp until the end of the round. The remaining 3 operators will get downed and have to play with 50 HP to the end of the round."
+    },
+    {
+      "title": "Follow the Leader",
+      "description": "All players must follow a certain player."
+    },
+    {
+      "title": "Frag Out",
+      "description": "Take Sledge, Buck, Capitão and a recruit with frags, together with Fuze and simultaneously throw frags and blow the cluster charge in the objective room. *Yes, even on Hostage. (recruit is optional, feel free to take an operator with breach charges instead)"
+    },
+    {
+      "title": "Frontline Assault",
+      "description": "Attackers must enter through the most obvious/most direct route to the objective. If this is on Bomb, you must go to the most obvious objective."
+    },
+    {
+      "title": "Full Swipe.",
+      "description": "Pick recruit with shields, drones cannot go into the building. After the prep phase everyone will start in cockpit and will move along the top floor, 1 floor down, back to the front, 1 floor down, to the back untill you find the objective."
+    },
+    {
+      "title": "Hammer time",
+      "description": "Any downed enemy must be finished off by Sledge"
+    },
+    {
+      "title": "Headshots only",
+      "description": "Attackers are only allowed to use Heavy Assault Rifles (G8A1 and 6P41) and can only kill enemies with 1 shot headshots."
+    },
+    {
+      "title": "Hero Mode",
+      "description": "Only one person can enter the objective area at a time"
+    },
+    {
+      "title": "Infiltrate",
+      "description": "Everyone take silenced primary and silenced secondary weapons. You should prone/crouch or \"Alt\"walk when moving and only kill unaware enemies. If someone has not bought any silencers, they can only perform melee kills."
+    },
+    {
+      "title": "Inhuman Reaction",
+      "description": "When you see a enemy you must wait 2 seconds before engaging fire fight."
+    },
+    {
+      "title": "Kettle and Pummel",
+      "description": "4 Recruits with shields and 1 Sledge"
+    },
+    {
+      "title": "LMG Aplently",
+      "description": "All pick Spetznaz recruits with 6P41 LMG (or GSG 9 recruit with G8A1 LMG) and go full auto on the breachable walls, floors, and doors."
+    },
+    {
+      "title": "Martydom",
+      "description": "Use only explosives to kill (Breach charges, grenades etc.)"
+    },
+    {
+      "title": "May the best man win",
+      "description": "After the first round is over, any players with no kills must suicide immediately at the start of round 2."
+    },
+    {
+      "title": "Need maor bullets!",
+      "description": "Spetnatz recruit LMG only"
+    },
+    {
+      "title": "No Ark for Noah",
+      "description": "Objective must be spammed with flash bangs smoke and shields in one wave"
+    },
+    {
+      "title": "One by One",
+      "description": "Only one attacker may enter the building at a time. All other attackers hide outside and use their drones only. If one person dies, someone else can go enter."
+    },
+    {
+      "title": "P.E.",
+      "description": "Players must always sprint when in motion"
+    },
+    {
+      "title": "Penguins",
+      "description": "Stay in a group, crouched. Never leave the huddle."
+    },
+    {
+      "title": "Professional Help",
+      "description": "MVP must die at the beginning of the round and direct their teammates through the round"
+    },
+    {
+      "title": "Protect the carrier",
+      "description": "Four shields and one other guy with the defuser. The shield operators must protect the bomb disposal expert (guy with the defuser). If he dies, the shield operators cannot plant the defuser."
+    },
+    {
+      "title": "Protect The President",
+      "description": "Bottom player is Mr President. They will walk towards the hostage/bomb/biohazard and will not stop. You must keep them alive at all costs! Failure is not an option. If Mr President dies we must surrender ourselves. Mr President must be given the diffuser if the situation is bomb. Mr President can shoot as well, but only with a pistol."
+    },
+    {
+      "title": "Pump Action",
+      "description": "Attackers are only allowed to use Pump action shotguns. Any other type of weapon is not allowed! Breachable walls/doors or windows can only be shot open. Breaching them is not allowed."
+    },
+    {
+      "title": "Queen",
+      "description": "Everyone goes recruit shield except for one player. Shield users are not allowed to shoot or melee and must protect the queen. If the queen dies it's all over."
+    },
+    {
+      "title": "Rambo Rush",
+      "description": "all attackers go recruit and pick LMG and rush the objective and hip fire everywhere to kill everything"
+    },
+    {
+      "title": "Room by room",
+      "description": "Do not send in your drones during the preparation phase, you must all enter the building through the same door and clear room by room as a unit until you find the objective."
+    },
+    {
+      "title": "Shield drop",
+      "description": "Take 4 shield operators and sledge, find a trap door above the objective and place all 4 shield guys on it, facing outwards with sledge in the middle, and use sledge to destroy the trap door. If there is none on the objective, find the closest one."
+    },
+    {
+      "title": "Shield reinforcements!",
+      "description": "One Blackbeard, 4 shield recruits, Blackbeard cannot use his rifle shield."
+    },
+    {
+      "title": "Simon Says",
+      "description": "Kill the bottom player. They are Simon. Say Hi to Simon. He'll be telling you what to do now."
+    },
+    {
+      "title": "Smoking Kills",
+      "description": "Only Smoke Grenades and pistols. (Shields are allowed if you wish)"
+    },
+    {
+      "title": "Snail Team 6",
+      "description": "All shields. All prone. Straight in a line \"follow the leader\" style. Whoever is at the front of the line is the only person allowed to crouch."
+    },
+    {
+      "title": "Snoop Dogg",
+      "description": "(Hostage Only) Don't hurt anyone! Throw smokes and get the hostage out of there, pronto!"
+    },
+    {
+      "title": "Stack up",
+      "description": "The team must stick together. One person takes Montagne and 4 people follow him like a snake. When entering a room, the team must line up along a wall before breaching and enter in a line."
+    },
+    {
+      "title": "Tactical bombardment",
+      "description": "All take Frag grenade, open up the room with the hostage and lob the frag hoping you won't kill the hostage. Bonus points if you fuze the objective room without killing the hostage."
+    },
+    {
+      "title": "Take a day off",
+      "description": "All players must stay in spawn the entire match until the last 90 seconds"
+    },
+    {
+      "title": "Take back the kitchen!",
+      "description": "Playing as IQ, Ash or Twitch, assault the kitchen but do not damage it. If the kitchen is empty, just stay there and defend it."
+    },
+    {
+      "title": "Team America",
+      "description": "Must use only FBI operators and enter through the main entrance"
+    },
+    {
+      "title": "The blind shield wall",
+      "description": "All pick American recruits with a shield, the 5.7, smoke grenades and stun grenades. Open a window (or door) and throw all the nades. Breach."
+    },
+    {
+      "title": "The John Wayne",
+      "description": "All pick a GIGN recruit with ballistic shield, revolver, breach charges and frag grenade. As soon as you spawn, press 1 to get your shield in your back and wield your revolver like a true hero."
+    },
+    {
+      "title": "The long way",
+      "description": "No breaching charges"
+    },
+    {
+      "title": "The most powerful guns in the world",
+      "description": "All pick GIGN recruits with 417, revolver, breach charges and frag grenades. Deal out the damage."
+    },
+    {
+      "title": "The worst team ever!",
+      "description": "IQ, Buck, Glaz, Montagne, Thatcher"
+    },
+    {
+      "title": "Time",
+      "description": "As an Attacker for every 30 secs until your team is in the objective you must kill your lowest fragger, if the last, suicide."
+    },
+    {
+      "title": "Tr8tor",
+      "description": "Lowest scoring teammate must report all teammate locations in all chat"
+    },
+    {
+      "title": "Waiting Game",
+      "description": "You cannot enter the building until the clock ticks less than 1 minute remaining. Then rush the enemy. (Drones can enter the building, including Twitch drone)"
+    },
+    {
+      "title": "Wall Hugger",
+      "description": "You have to always be touching the left wall from the moment you get in the building."
+    },
+    {
+      "title": "We don’t know what we don’t know",
+      "description": "You cannot enter the building until all defenders have been identified."
+    },
+    {
+      "title": "Wide Open",
+      "description": "Everyone takes breach charges, place them all around the objective room and breach at the same time."
+    },
+    {
+      "title": "Window washers",
+      "description": "Must enter and exit any buildings through windows"
+    }
+  ],
+  "any": [
+    {
+      "title": "“Special” Forces",
+      "description": "Pick a side, left or right. You must lean that way for the duration of the round."
+    },
+    {
+      "title": "007",
+      "description": "Pistols only (Preferably with a silencer)"
+    },
+    {
+      "title": "Aim Down Sight = Best",
+      "description": "Whole team has to be ADS(Aim Down Sight) for the entire round."
+    },
+    {
+      "title": "Ammo Conversation",
+      "description": "All guns must be put to semi-auto"
+    },
+    {
+      "title": "An eye for an eye",
+      "description": "Everyone on your team must complete the round with one kill, and one death. (Which means the last player has to end the round in a draw)"
+    },
+    {
+      "title": "Angles and Demons",
+      "description": "Play with your mouse (or controller) rotated 90 degrees. Left or right, your choice."
+    },
+    {
+      "title": "Bastion",
+      "description": "Run around as much as you like. But when shooting, you must stand still."
+    },
+    {
+      "title": "Being Tutored",
+      "description": "2 players turn off their monitor, 2 others are guiding them thru voice/text. The last players can do whatever he/she wants!"
+    },
+    {
+      "title": "Birthday boi",
+      "description": "Everyone had to sing happy birthday on an open mic to the persoon who's birthday is nearest."
+    },
+    {
+      "title": "Blind Eye",
+      "description": "No use of drones/camera's"
+    },
+    {
+      "title": "Board Game",
+      "description": "Players take turns doing actions such as placing traps, reinforcing, throwing projectiles, etc."
+    },
+    {
+      "title": "BOOM! Headshot.",
+      "description": "Headshot kills only. (If you make a non-headshot kill, you must suicide)"
+    },
+    {
+      "title": "Catching Breath",
+      "description": "You have to constantly keep moving. You can only stop moving for 5 seconds each time."
+    },
+    {
+      "title": "CoD Attitude",
+      "description": "Must teabag 3 times on any enemy kill before firing again"
+    },
+    {
+      "title": "Crablike",
+      "description": "Only use A and D to move. (disable W and S in the menu… or pull those keys out)"
+    },
+    {
+      "title": "Deafening",
+      "description": "No sound at all."
+    },
+    {
+      "title": "Find your bearings",
+      "description": "Four players each choose a different compass point (North, South, East or West) and must face that direction for the duration of the round. The fifth player can turn, but must always be looking straight up (or down)."
+    },
+    {
+      "title": "From the Hip",
+      "description": "Sights? You don’t need them. You can only fire from the hip, no ADS."
+    },
+    {
+      "title": "Horse Rules",
+      "description": "If a player goes down, his teammates must kill him"
+    },
+    {
+      "title": "Intel Only",
+      "description": "Last man standing must turn off ingame sound. Allies have to help the last man by describing the sound."
+    },
+    {
+      "title": "Intel Only (Full Team)",
+      "description": "Everyone in the team must turn off the game sounds and do communicate with the them. (When streaming/recording everyone has to make gun noises themselfs)"
+    },
+    {
+      "title": "Karaoke",
+      "description": "Bottom board decides on an inspirational song, team must sing along"
+    },
+    {
+      "title": "Low and Slow",
+      "description": "Can only move if prone. (You also cannot vault over objects. You may crouch/stand to deploy gadgets only)"
+    },
+    {
+      "title": "Michael Bay Day",
+      "description": "Everytime something explodes everyone has to type BOOM in all chat."
+    },
+    {
+      "title": "Not the Face!",
+      "description": "Only make non-headshot kills. (If you make a headshot kill, you must suicide)"
+    },
+    {
+      "title": "One bullet",
+      "description": "Players can only shoot 1 bullet every 3 seconds. If possible they must switch to single fire"
+    },
+    {
+      "title": "Opposite",
+      "description": "Change hands, so your right hand is on the keyboard and left on mouse (opposite if you use a left handed mouse)."
+    },
+    {
+      "title": "Outside my comfort zone",
+      "description": "Play as an operator you have never used. If you have used all of them, choose your least used operator. (If unsure, use the Rainbow stats website)"
+    },
+    {
+      "title": "Partner (requires at least 4 players)",
+      "description": "Team up 2 and 2, (2 & 3. 4 & 5) If 5 the top fragger will go by him/her self. You must at all times follow your partner."
+    },
+    {
+      "title": "Pistol Finish only",
+      "description": "You can only down the enemies with your Primary weapon, but you will have to Finish them off with your secondary."
+    },
+    {
+      "title": "Push it to the limit",
+      "description": "Turn your mouse (or controller) DPI up to the limit."
+    },
+    {
+      "title": "Radio Silent",
+      "description": "Win a round without communicating. This includes the time spent choosing operators and where to spawn."
+    },
+    {
+      "title": "Samurai",
+      "description": "Knife Only"
+    },
+    {
+      "title": "Shut up already!",
+      "description": "The top fragger must sing/talk about his skills the whole round (voice or chat)"
+    },
+    {
+      "title": "Single Fire",
+      "description": "Everyone must set their fire mode to single fire only for the duration of the round."
+    },
+    {
+      "title": "Sloth",
+      "description": "Players must turn sensitivity all the way down."
+    },
+    {
+      "title": "Sneaky",
+      "description": "You must at all times hold ALT (walk slowly) while moving"
+    },
+    {
+      "title": "Speedy",
+      "description": "Choose Armour 1, Speed 3 Operators. Sprint everywhere."
+    },
+    {
+      "title": "Stormtroopers",
+      "description": "Only recruits"
+    },
+    {
+      "title": "The imitation game",
+      "description": "All players must impersonate various famous celebrities during the round"
+    },
+    {
+      "title": "The long run",
+      "description": "No one can use breaching gadgets/charges."
+    },
+    {
+      "title": "The Penetrator",
+      "description": "You may only kill with penetration kills."
+    },
+    {
+      "title": "Time Out",
+      "description": "Win an entire match through reaching the time limit. (At least one enemy must survive every round)."
+    },
+    {
+      "title": "Training Day",
+      "description": "One person gets to choose an operator. The rest all take recruits and copy the chosen operator as close as possible. (Take his primary weapon and whatever gear you can.)"
+    },
+    {
+      "title": "Turtle Power",
+      "description": "Prone only"
+    },
+    {
+      "title": "What’s my name?",
+      "description": "Change names with other players in the team (in Uplay), must answer to your temporary name"
+    }
+  ]
+}
